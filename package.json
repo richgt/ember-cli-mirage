@@ -31,8 +31,7 @@
     "test": "ember test",
     "test:all": "ember try:each",
     "test:browser": "ember test --test-port=0",
-    "test:test-projects": "./scripts/test.sh",
-    "prepare": "./scripts/link.sh"
+    "test:test-projects": "./scripts/test.sh"
   },
   "dependencies": {
     "broccoli-file-creator": "^2.1.1",
